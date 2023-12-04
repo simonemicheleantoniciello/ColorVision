@@ -147,3 +147,6 @@ I principi della Gestalt sono una serie di concetti psicologici che descrivono c
 4. Principio della Chiusura: La mente tende a chiudere figure aperte o incomplete, vedendo una figura compiuta. Questo principio può influenzare la percezione dei colori, specialmente quando sono parte di un disegno o di una figura complessa.
 
 5. Principio della Buona Forma: Gli oggetti sono spesso percepiti in modo che formino una figura chiara e ordinata, piuttosto che una forma caotica. Questo principio può influenzare come percepiamo e organizziamo i colori in schemi armoniosi o bilanciati.
+
+![outputBalanced](https://github.com/simonemicheleantoniciello/ColorVision/assets/139228464/1377204d-29fc-4300-a28e-ffb82f220af1)
+
